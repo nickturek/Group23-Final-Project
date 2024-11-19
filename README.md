@@ -1,4 +1,4 @@
-# Group23-Final-Project #
+# Group 23 Final Project #
 
 # Repository Overview # 
 - This repository aims to identify the best neighborhood in Pittsburgh using various datasets (included below) from the Western Pennsylvania 
